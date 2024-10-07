@@ -1,0 +1,6 @@
+[submodule "qtnats"]
+	path = qtnats
+	url = https://github.com/Kazmirchuk/qtnats.git
+[submodule "qt-nats"]
+	path = qt-nats
+	url = https://github.com/pkoretic/qt-nats.git
